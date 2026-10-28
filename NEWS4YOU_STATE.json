@@ -3,6 +3,7 @@
   "project": "News4you",
   "channel": "News4you",
   "handle": "@News4youa",
+  "channelId": "UCHSgR1BBTGXaIt8frVKRbsw",
   "repository": "https://github.com/henrynkoh/News4you",
   "timezone": "America/Los_Angeles",
   "schedule": [
@@ -13,6 +14,31 @@
   ],
   "selectionMethod": "Social Blade global YouTube #1 creator by total views, then newest unprocessed public upload from the official Videos > Latest list.",
   "completed": {},
-  "lastRun": null,
-  "lastUpdated": "2026-10-28T12:55:31-07:00"
+  "pending": {
+    "dF5rKQ0mSc8": {
+      "sourceCreator": "T-Series",
+      "sourceTitle": "Tum Ho Wahi Reprise (Full Video) | Don't Be Shy | Nikhita Gandhi | Ram Sampath | Munna Dhiman",
+      "sourceUrl": "https://www.youtube.com/watch?v=dF5rKQ0mSc8",
+      "observedAt": "2026-10-28T12:55:31-07:00",
+      "output": "/Users/henryoh/.aside/u/0/sessions/2026-10-15_gECHkiSztUWJ3N6N/artifacts/news4you-daily/2026-10-28-1300/news4you-tseries-tum-ho-wahi-reprise.webm",
+      "durationSeconds": 42.78,
+      "dimensions": "1080x1920",
+      "audio": "Opus-compatible stereo, 48000 Hz",
+      "rights": "Original graphics, original script/captions, authorized Henry narration; no source footage, audio, music, thumbnail, description copy, or lyrics.",
+      "independentVisualReview": "PASS: zero critical and zero major defects across six continuous-playback frames.",
+      "status": "ready_for_upload_blocked_channel_access",
+      "blocker": "Neither signed-in Google account provides access to News4you @News4youa; do not upload to another channel."
+    }
+  },
+  "lastRun": {
+    "startedAt": "2026-10-28T12:55:31-07:00",
+    "finishedAt": "2026-10-28T15:19:28-07:00",
+    "slot": "12:00",
+    "result": "production_passed_upload_blocked",
+    "sourceVideoId": "dF5rKQ0mSc8",
+    "criticalDefects": 0,
+    "majorDefects": 0,
+    "reworkCycles": 2
+  },
+  "lastUpdated": "2026-10-28T15:19:28-07:00"
 }
