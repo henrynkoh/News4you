@@ -1,0 +1,21 @@
+# Credentials and private browser/session data
+.env
+.env.*
+*.token
+*.key
+credentials*.json
+oauth*.json
+
+# Generated media and evidence
+output/
+runs/*/private-evidence/
+*.mp4
+*.mov
+*.wav
+*.png
+*.jpg
+*.webp
+
+# Local tooling
+node_modules/
+.DS_Store

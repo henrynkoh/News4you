@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "project": "News4you",
+  "channel": "News4you",
+  "handle": "@News4youa",
+  "repository": "https://github.com/henrynkoh/News4you",
+  "timezone": "America/Los_Angeles",
+  "schedule": [
+    "00:00",
+    "06:00",
+    "12:00",
+    "18:00"
+  ],
+  "selectionMethod": "Social Blade global YouTube #1 creator by total views, then newest unprocessed public upload from the official Videos > Latest list.",
+  "completed": {},
+  "lastRun": null,
+  "lastUpdated": "2026-10-28T12:55:31-07:00"
+}
